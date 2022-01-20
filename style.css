@@ -463,43 +463,6 @@ section {
   font-size: 1.5em;
 }
 
-/* .row .col50 .flex-container {
-
-  display: flex;
-  margin: 1px;
-  text-align: center;
-  line-height: 0px;
-  height: 130px;
-  align-content: space-around;
-  width: 200px;
-  flex-direction: column;
-}
-.row .col50 .flex-container .text2 {
-  
-  display: flexbox;
-  margin: 1px;
-  text-align: left;
-  line-height: 50px;
-  height: 130px;
-  width: 1200px;
-  flex-direction: row;
-  font-weight: 300;
-  font-size: 2em;
-}
-
-.row .col50 .flex-con {
-  
-  display: inline-block;
-  margin: 10px;
-  text-align: center;
-  line-height: 120px;
-  height: 20px;
-  align-content: space-between;
-  width: 100px;
-  padding: 0 0 0 1000px;
-  flex-direction: column;
-  transition: all 2.5s ease;
-} */
 
 .recipes {
   background-image: linear-gradient(to right, #fff, #ff0157, #fff);
