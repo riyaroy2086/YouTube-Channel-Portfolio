@@ -308,7 +308,7 @@
     </script>
 
                          
-
+                     // WORDS APPEAR WITH THE DOWN-SCROLL IN UPWARD MOVEMENT
     <script>function reveal() {
             var reveals = document.querySelectorAll(".reveal");
 
