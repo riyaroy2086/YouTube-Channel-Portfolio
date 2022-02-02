@@ -1,4 +1,6 @@
-                      //THE CHARTS
+ //This is mainly the inline JavaScript and here I've listed out the components.                     
+
+//THE CHARTS
   <br>
     <canvas id="myChart2" style="width:100%;max-width:600px;"></canvas>
     <div class="container reveal fade-left">
